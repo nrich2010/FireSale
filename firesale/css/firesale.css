@@ -17,7 +17,7 @@
 .firesale .width-onethird { width: 222px; margin-right: 20px; display: block; float: left; }
 .firesale .width-half { width: 300px; display: block; float: left; }
 .firesale .last { margin-right: 0px !important; margin-bottom: 0px !important; }
-.firesale ul.icon-arrow li a { height: 15px; line-height: 15px; padding-left: 15px; font-size: 13px; color: #515151; letter-spacing: -1px; display: inline-block; color: #515151; background: url('images/sprite.png') no-repeat -285px 0; }
+.firesale ul.icon-arrow li a { height: 15px; line-height: 15px; padding-left: 15px; font-size: 13px; color: #515151; letter-spacing: -1px; display: inline-block; color: #515151; background: url('img/front/sprite.png') no-repeat -285px 0; }
 .firesale .button { padding: 2px; display: inline-block; }
 .firesale .button span { font-size: 11px; line-height: 17px; height: 18px; display: inline-block; color: #fff; font-weight: normal; padding: 0 10px; border: 1px solid rgba(255,255,255,0.3); }
 .firesale .align-left { text-align: left !important; }
